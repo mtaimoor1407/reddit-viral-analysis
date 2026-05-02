@@ -38,10 +38,6 @@ and builds an ML model that predicts virality with **96.8% AUC**.
 
 ### Viral vs Non-Viral Words
 ![Words](data/viral_words.png)
-
-### Feature Importance
-![Importance](data/feature_importance.png)
-
 ---
 
 ## 🗂️ Project Structure
